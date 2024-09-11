@@ -8,5 +8,6 @@ MongoDB (Make sure it's installed and running)
 
 Setup
 
+****
 Create a .env file in the root directory with the following content:
-DB_URI=DB_URI = "mongodb+srv://admin:Pass1234@cluster0.ywu6t.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+DB_URI = "mongodb+srv://admin:Pass1234@cluster0.ywu6t.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
